@@ -8,3 +8,11 @@ body{
     display: flex;
     justify-content: center;
 }
+h1{
+    color: white;
+    display: flex;
+}
+p{
+    text-align: center;
+
+}
